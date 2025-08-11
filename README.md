@@ -20,14 +20,14 @@
 
 <h2>#2 워크플로우</h2>
 
-<h4>#2-1 고객 등록</h4>
-    <video src="https://github.com/user-attachments/assets/04ecce33-4087-4f45-a15b-165b06e117dc" control width:"600">
-<h4>#2-2 피보험자 등록</h4>
-    <video src="https://github.com/user-attachments/assets/447db325-138c-49a2-8fdc-79c8b735b4aa" control width:"600">
-<h4>#2-3 보험 상품 계약</h4>
-    <video src="https://github.com/user-attachments/assets/e523befa-3e8a-48d2-8b71-cfff95620060" control width:"600">    
-<h4>#2-4 공지사항 등록</h4>
-    <video src="https://github.com/user-attachments/assets/e35596a6-f665-48df-862a-fdc0b8bfaaa7" control width:"600">
+    <h4>#2-1 고객 등록</h4>
+        <video src="https://github.com/user-attachments/assets/04ecce33-4087-4f45-a15b-165b06e117dc" alt="고객등록" width:"600">
+    <h4>#2-2 피보험자 등록</h4>
+        <video src="https://github.com/user-attachments/assets/447db325-138c-49a2-8fdc-79c8b735b4aa" width:"600">
+    <h4>#2-3 보험 상품 계약</h4>
+        <video src="https://github.com/user-attachments/assets/e523befa-3e8a-48d2-8b71-cfff95620060" width:"600">    
+    <h4>#2-4 공지사항 등록</h4>
+        <video src="https://github.com/user-attachments/assets/e35596a6-f665-48df-862a-fdc0b8bfaaa7" width:"600">
 
 
 
