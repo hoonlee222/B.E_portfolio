@@ -8,21 +8,15 @@
 <img src="https://github.com/user-attachments/assets/5d9e6bd0-5b31-4e0b-a72d-f816eeacc6e9" width="665" height="245" alt="프로젝트 목적" />
 
 <h4>#1-2 프로젝트에 사용된 기술</h4>
-<div class="list" style="display:flex;">
-  <div>
     <img width="318" height="278" alt="기술-빌드 도구" src="https://github.com/user-attachments/assets/6e05b928-a08a-40a1-b430-0806a0441746" />
-    <p>빌드도구</p>
-  </div>
-  <div>
+    <hr>
     <img width="318" height="292" alt="기술-데이터베이스" src="https://github.com/user-attachments/assets/df4ca761-d502-44a0-a525-ebb9f80b0eaa" />
-    <p>데이터베이스</p>
-  </div>
-</div>
-      <img width="318" height="292" alt="기술-데이터베이스" src="https://github.com/user-attachments/assets/df4ca761-d502-44a0-a525-ebb9f80b0eaa" />
-      <p>데이터베이스</p>
-    </li>
-  </ul>
-</div>
+    <hr>
+    <img width="344" height="288" alt="기술-프론트" src="https://github.com/user-attachments/assets/c7e5f144-d144-450c-a88b-d463c37728d4" />
+    <hr>
+    <img width="318" height="291" alt="기술-백" src="https://github.com/user-attachments/assets/78d068b5-3d82-4e6f-814b-ca1ab2694717" />
+
+
 
 
 #2 워크플로우
