@@ -7,6 +7,20 @@
 <h4>#1-1 프로젝트 목적</h4>
 <img src="https://github.com/user-attachments/assets/5d9e6bd0-5b31-4e0b-a72d-f816eeacc6e9" width="665" height="245" alt="프로젝트 목적" />
 
+<h4>#1-2 프로젝트에 사용된 기술</h4>
+<div>
+  <ul style="display:flex; flex-flow:row wrap;">
+    <li style="display:flex; flex-direction:column;">
+      <img width="318" height="278" alt="기술-빌드 도구" src="https://github.com/user-attachments/assets/6e05b928-a08a-40a1-b430-0806a0441746" />
+      <p>빌드도구</p>
+    </li>
+    <li style="display:flex; flex-direction:column;">
+      <img width="318" height="292" alt="기술-데이터베이스" src="https://github.com/user-attachments/assets/df4ca761-d502-44a0-a525-ebb9f80b0eaa" />
+      <p>데이터베이스</p>
+    </li>
+  </ul>
+</div>
+
 
 #2 워크플로우
 <video src="https://github.com/user-attachments/assets/2dacdae3-601f-41af-9984-35f8e2251152" control width="600" />
