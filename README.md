@@ -1,6 +1,6 @@
 <h1>관리자 모드 스프링 프로젝트</h1>
-<h2><Java + Spring Lagacy + Oracle></h2>
-
+<Java + Spring Lagacy + Oracle>
+    
 <br><br>
 
 <h2>#1 설명</h2>
