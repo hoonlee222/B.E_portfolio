@@ -32,12 +32,21 @@
 <br>
 <h4>#2-1 고객 등록</h4>
     <video src="https://github.com/user-attachments/assets/04ecce33-4087-4f45-a15b-165b06e117dc" control width:"600"></video>
+    고객에 대한 정보를 저장하는 영상입니다.
+    해당 화면에서 입력하고 있는 인원의 정보를 고객으로 분류할지, 관리자로 분류할지 선택할 수 있습니다.
+    <br>
 <h4>#2-2 피보험자 등록</h4>
     <video src="https://github.com/user-attachments/assets/447db325-138c-49a2-8fdc-79c8b735b4aa" control width:"600"></video>
+    앞서 저장한 고객의 정보를 불러와 피보험자를 등록하는 영상입니다.
+    피보험자 등록 화면에서 고객의 정보를 따로 검색없이 등록 되어있는 정보 내에서 불러올 수 있도록 하였습니다.
+    <br>
 <h4>#2-3 보험 상품 계약</h4>
     <video src="https://github.com/user-attachments/assets/e523befa-3e8a-48d2-8b71-cfff95620060" control width:"600"></video>
+    등록된 고객의 정보를 불러오고, 해당 고객과 연결 되어있는 피보험자 목록을 보여주고 선택한 피보험자에 대해 보험 상품을 지정하여 등록을 할 수 있습니다.
+    <br>
 <h4>#2-4 공지사항 등록</h4>
     <video src="https://github.com/user-attachments/assets/e35596a6-f665-48df-862a-fdc0b8bfaaa7" control width:"600"></video>
+    공지사항(제목, 내용)을 등록할 수 있는 화면이며, 중요도에 따라 '중요공지로 설정' 체크 후 공지사항 목록에서 중요 표시가 나오게 할 수 있습니다.
 
 
 
