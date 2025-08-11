@@ -1,7 +1,12 @@
 <h1>관리자 모드 스프링 프로젝트</h1>
-<h3>Java + Spring Lagacy + Oracle</h3>
-/* <h4>#1 </h4> */
-<img src="https://github.com/user-attachments/assets/8a99178d-6a05-4d1b-92c0-3599860cdf83" width="240" height="180" />
+<h2>Java + Spring Lagacy + Oracle</h2>
+
+
+<h3>#1 설명</h3>
+
+<h4>#1-1 프로젝트 목적</h4>
+<img src="https://github.com/user-attachments/assets/5d9e6bd0-5b31-4e0b-a72d-f816eeacc6e9" width="665" height="245" alt="프로젝트 목적" />
+
 
 #2 워크플로우
 <video src="https://github.com/user-attachments/assets/2dacdae3-601f-41af-9984-35f8e2251152" control width="600" />
