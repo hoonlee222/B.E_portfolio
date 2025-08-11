@@ -13,11 +13,9 @@
     <br>
     <img src="https://github.com/user-attachments/assets/c7e5f144-d144-450c-a88b-d463c37728d4" alt="기술-프론트" width="240" height="160" />"프론트 엔드"
     <img src="https://github.com/user-attachments/assets/78d068b5-3d82-4e6f-814b-ca1ab2694717" alt="기술-백" width="240" height="160" />"백 엔드"
+<br><br>
 
-
-
-
-#2 워크플로우
+<h2>#2 워크플로우</h2>
 <video src="https://github.com/user-attachments/assets/2dacdae3-601f-41af-9984-35f8e2251152" control width="600" />
 
 #3 유튜브 = 링크주소 복사 = 썸네일 이미지는 직접 만들어서 링크로 사용
