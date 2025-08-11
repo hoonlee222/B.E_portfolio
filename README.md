@@ -13,6 +13,10 @@
     <img width="318" height="278" alt="기술-빌드 도구" src="https://github.com/user-attachments/assets/6e05b928-a08a-40a1-b430-0806a0441746" />
     <p>빌드도구</p>
   </div>
+  <div>
+    <img width="318" height="292" alt="기술-데이터베이스" src="https://github.com/user-attachments/assets/df4ca761-d502-44a0-a525-ebb9f80b0eaa" />
+    <p>데이터베이스</p>
+  </div>
 </div>
       <img width="318" height="292" alt="기술-데이터베이스" src="https://github.com/user-attachments/assets/df4ca761-d502-44a0-a525-ebb9f80b0eaa" />
       <p>데이터베이스</p>
