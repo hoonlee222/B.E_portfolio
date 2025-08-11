@@ -11,3 +11,4 @@ Java + Spring Lagacy + Oracle
 <a href ="https://www.youtube.com/watch?v=CQtrGGC_dko">
   <img src="#" alt="썸네일" />
 </a>
+<img width="981" height="644" alt="KakaoTalk_20250617_092918834" src="https://github.com/user-attachments/assets/41f69709-6d64-449f-b6c5-61c9264436d3" />
