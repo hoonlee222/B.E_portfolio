@@ -1,6 +1,7 @@
 <h1>관리자 모드 스프링 프로젝트</h1>
-<h2>Java + Spring Lagacy + Oracle</h2>
+<h2><Java + Spring Lagacy + Oracle></h2>
 
+<br><br>
 
 <h2>#1 설명</h2>
 
@@ -16,6 +17,8 @@
         <img src="https://github.com/user-attachments/assets/c7e5f144-d144-450c-a88b-d463c37728d4" alt="기술-프론트" width="240" height="160" />"프론트 엔드"
         <img src="https://github.com/user-attachments/assets/78d068b5-3d82-4e6f-814b-ca1ab2694717" alt="기술-백" width="240" height="160" />"백 엔드"
     </p>
+    
+<br><br>
 <br><br>
 
 <h2>#2 워크플로우</h2>
@@ -34,7 +37,7 @@
 
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
 #3 유튜브 = 링크주소 복사 = 썸네일 이미지는 직접 만들어서 링크로 사용
 <a href ="https://www.youtube.com/watch?v=CQtrGGC_dko">
   <img src="#" alt="썸네일" />
