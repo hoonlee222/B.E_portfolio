@@ -2,19 +2,16 @@
 <h2>Java + Spring Lagacy + Oracle</h2>
 
 
-<h3>#1 설명</h3>
+<h2>#1 설명</h2>
 
 <h4>#1-1 프로젝트 목적</h4>
 <img src="https://github.com/user-attachments/assets/5d9e6bd0-5b31-4e0b-a72d-f816eeacc6e9" width="665" height="245" alt="프로젝트 목적" />
 
 <h4>#1-2 프로젝트에 사용된 기술</h4>
-    "빌드 도구"<img src="https://github.com/user-attachments/assets/6e05b928-a08a-40a1-b430-0806a0441746" alt="기술-빌드 도구" width="240" height="160" />
-    <hr>
-    "DB 연동"<img src="https://github.com/user-attachments/assets/df4ca761-d502-44a0-a525-ebb9f80b0eaa" alt="기술-데이터베이스" width="240" height="160" />
-    <hr>
-    "프론트 엔드"<img src="https://github.com/user-attachments/assets/c7e5f144-d144-450c-a88b-d463c37728d4" alt="기술-프론트" width="240" height="160" />
-    <hr>
-    "백 엔드"<img src="https://github.com/user-attachments/assets/78d068b5-3d82-4e6f-814b-ca1ab2694717" alt="기술-백" width="240" height="160" />
+    <img src="https://github.com/user-attachments/assets/6e05b928-a08a-40a1-b430-0806a0441746" alt="기술-빌드 도구" width="240" height="160" />"빌드 도구"
+    <img src="https://github.com/user-attachments/assets/df4ca761-d502-44a0-a525-ebb9f80b0eaa" alt="기술-데이터베이스" width="240" height="160" />"DB 연동"
+    <img src="https://github.com/user-attachments/assets/c7e5f144-d144-450c-a88b-d463c37728d4" alt="기술-프론트" width="240" height="160" />"프론트 엔드"
+    <img src="https://github.com/user-attachments/assets/78d068b5-3d82-4e6f-814b-ca1ab2694717" alt="기술-백" width="240" height="160" />"백 엔드"
 
 
 
