@@ -21,8 +21,13 @@
 <h2>#2 워크플로우</h2>
 
 <h4>#2-1 고객 등록</h4>
+<video src="https://github.com/user-attachments/assets/04ecce33-4087-4f45-a15b-165b06e117dc" control width:"600">
+
+
+
 <h4>#2-2 피보험자 등록</h4>
 <h4>#2-3 보험 상품 계약</h4>
+<h4>#2-4 공지사항 등록</h4>
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
