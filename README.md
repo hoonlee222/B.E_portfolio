@@ -1,58 +1,3 @@
-<h1>관리자 모드 스프링 프로젝트</h1>
-<Java + Spring Lagacy + Oracle>
-    
-<br><br>
-
-<h2>#1 설명</h2>
-<br>
-<h4>#1-1 프로젝트 목적</h4>
-<img src="https://github.com/user-attachments/assets/5d9e6bd0-5b31-4e0b-a72d-f816eeacc6e9" width="665" height="245" alt="프로젝트 목적" />
-
-<h4>#1-2 프로젝트에 사용된 기술</h4>
-
-<table>
-    <tr>
-        <th>빌드 도구</th>
-        <th>DB 연동</th>
-        <th>프론트 엔드</th>
-        <th>백 엔드</th>
-    </tr>
-    <tr>
-        <td width="300"><img src="https://github.com/user-attachments/assets/6e05b928-a08a-40a1-b430-0806a0441746" alt="기술-빌드 도구" width="240" height="160" /></td>
-        <td><img src="https://github.com/user-attachments/assets/df4ca761-d502-44a0-a525-ebb9f80b0eaa" alt="기술-데이터베이스" width="240" height="160" /></td>
-        <td><img src="https://github.com/user-attachments/assets/c7e5f144-d144-450c-a88b-d463c37728d4" alt="기술-프론트" width="240" height="160" /></td>
-        <td><img src="https://github.com/user-attachments/assets/78d068b5-3d82-4e6f-814b-ca1ab2694717" alt="기술-백" width="240" height="160" /></td>
-    </tr>
-</table>
-    
-<br><br>
-<br><br>
-
-<h2>#2 워크플로우</h2>
-<br>
-<h4>#2-1 고객 등록</h4>
-    <video src="https://github.com/user-attachments/assets/04ecce33-4087-4f45-a15b-165b06e117dc" control width:"600"></video>
-    고객에 대한 정보를 저장하는 영상입니다. <br>
-    해당 화면에서 입력하고 있는 인원의 정보를 고객으로 분류할지, 관리자로 분류할지 선택할 수 있습니다.
-    <br>
-<h4>#2-2 피보험자 등록</h4>
-    <video src="https://github.com/user-attachments/assets/447db325-138c-49a2-8fdc-79c8b735b4aa" control width:"600"></video>
-    앞서 저장한 고객의 정보를 불러와 피보험자를 등록하는 영상입니다. <br>
-    피보험자 등록 화면에서 고객의 정보를 따로 검색없이 등록 되어있는 정보 내에서 불러올 수 있도록 하였습니다.
-    <br>
-<h4>#2-3 보험 상품 계약</h4>
-    <video src="https://github.com/user-attachments/assets/e523befa-3e8a-48d2-8b71-cfff95620060" control width:"600"></video>
-    등록된 고객의 정보를 불러옵니다. <br> 
-    해당 고객과 연결 되어있는 피보험자 목록을 보여주고 선택한 피보험자에 대해 보험 상품을 지정하여 등록을 할 수 있습니다.
-    <br>
-<h4>#2-4 공지사항 등록</h4>
-    <video src="https://github.com/user-attachments/assets/e35596a6-f665-48df-862a-fdc0b8bfaaa7" control width:"600"></video>
-    공지사항(제목, 내용)을 등록할 수 있는 화면입니다. <br> 
-    중요도에 따라 '중요공지로 설정' 체크를 하면 공지사항 목록에서 중요 표시가 나오게 할 수 있습니다. <br>
-    (이는 차후 수정이 가능합니다)
-
-<hr><hr><hr><hr>
-
 # KD손해보험 관리자 백엔드 프로젝트
 Java + Spring Legacy + Oracle 기반의 보험사 관리자 페이지
 
@@ -164,17 +109,13 @@ KD손해보험의 보험 업무 진행을 위한 **관리자 페이지를 구현
 
 ### 1. 로그인
 로그인 화면을 통해 사용자 인증을 처리하는 과정입니다.  
-<a href="https://github.com/user-attachments/assets/fdf8c9ce-6521-43a4-99b9-085c7c7da329">
-  로그인 영상
-</a>
+<video src="https://github.com/user-attachments/assets/fdf8c9ce-6521-43a4-99b9-085c7c7da329"></video>
 
 ### 2. 고객 관리
 고객 목록 조회, 고객 등록, 수정, 삭제 기능을 보여주는 영상입니다.  
 먼저 두 명의 고객을 등록한 후, 한 명은 수정 후 삭제하고,  
 다른 한 명은 이후 피보험자 등록에서 선택할 수 있도록 목록에 남깁니다.  
-<a href="https://github.com/user-attachments/assets/8bcd7ab3-ecab-4030-a1ae-37d0a0df6c62">
-  고객 관리 영상
-</a>
+<video src="https://github.com/user-attachments/assets/8bcd7ab3-ecab-4030-a1ae-37d0a0df6c62"></video>
 
 ### 3. 피보험자 관리
 피보험자 목록 조회, 신규 등록, 정보 수정, 삭제 과정을 시연합니다.  
@@ -182,9 +123,7 @@ KD손해보험의 보험 업무 진행을 위한 **관리자 페이지를 구현
 한 명은 잘못 입력된 이름과 성별을 수정하고,  
 다른 한 명은 삭제합니다.  
 마지막에는 계약 등록 시 사용할 피보험자를 목록에 남겨둡니다.  
-<a href="https://github.com/user-attachments/assets/6f9a2c6b-1716-4572-b60b-4d108225fceb">
-  피보험자 관리 영상
-</a>
+<video src="https://github.com/user-attachments/assets/6f9a2c6b-1716-4572-b60b-4d108225fceb"></video>
 
 ### 4. 계약 관리
 계약 등록
@@ -201,21 +140,27 @@ KD손해보험의 보험 업무 진행을 위한 **관리자 페이지를 구현
 계약 삭제
 목록에서 수정한 계약의 삭제 버튼을 클릭합니다.
 삭제 확인 후 목록에서 해당 계약이 제거되었는지 확인합니다.<br>
-<a href="https://github.com/user-attachments/assets/30fbc9cb-e2d6-4730-b5f1-fda84c3316e2">
-  계약 관리 영상
-</a>
+<video src="https://github.com/user-attachments/assets/30fbc9cb-e2d6-4730-b5f1-fda84c3316e2"></video>
 
 ### 5. 공지사항 관리
 공지사항 목록 조회, 등록, 수정, 삭제 과정을 시연합니다.  
 두 건의 공지를 등록한 뒤, 한 건은 내용 추가 및 중요 공지로 수정하고,  
 다른 한 건은 상세보기 화면에서 삭제를 진행합니다.  
-<a href="https://github.com/user-attachments/assets/0e4147af-21f3-44ed-bd30-3a39b8b2132c">
-  공지사항 관리 영상
-</a>
+<video src="https://github.com/user-attachments/assets/0e4147af-21f3-44ed-bd30-3a39b8b2132c"></video>
 
 ---
 
 ## 📄 데이터베이스 설계 (ERD)
-![ERD](https://github.com/user-attachments/assets/0f1a88da-d62d-468b-befd-a6b009c5152c)
+<table>
+    <tr>
+        <th>ERD</th>
+    </tr>
+    <tr>
+        <td width="900">
+            <img src="https://github.com/user-attachments/assets/0f1a88da-d62d-468b-befd-a6b009c5152c">
+        </td>
+    </tr>
+</table>
+
 
 ---
