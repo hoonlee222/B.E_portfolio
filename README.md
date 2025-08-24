@@ -18,9 +18,9 @@ KD손해보험의 보험 업무 진행을 위한 **관리자 페이지를 구현
 ## 기술 스택
 
 ### 프론트엔드 (View / JSP 기반)
-- **뷰엔진**: JSP (JavaServer Pages), HTML5  
+- **뷰엔진**: HTML5, JSP (JavaServer Pages)
 - **템플릿 태그**: JSTL, EL  
-- **스타일링**: Bootstrap, CSS3  
+- **스타일링**: Css3, Bootstrap  
 - **JavaScript**: 순수 JS 또는 jQuery  
 - **AJAX**: jQuery AJAX 또는 Fetch API  
 
